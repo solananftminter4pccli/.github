@@ -1,0 +1,2 @@
+# .github
+solana or trust
